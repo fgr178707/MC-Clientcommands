@@ -2,6 +2,17 @@
 
 ## [附魔ID](Enchantment.md) [装备ID](outfit.md)
 
+## 下载地址
+
+模组:
+[github](https://github.com/Earthcomputer/clientcommands/releases)   [modrinth](https://modrinth.com/mod/client-commands/versions)
+
+软件版:
+[github](https://github.com/Earthcomputer/EnchantmentCracker/releases) 
+
+
+**只能计算附魔台**
+
 ## 1. RNG 钓鱼：
 **（由于在 1.20 版本开始无法再利用 RNG 操作战利品表，在 1.20 之后的版本 cfish 命令已被删除）**
 | 命令  | 解释
