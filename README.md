@@ -1,5 +1,6 @@
 ## rng附魔模组Clientcommands
 
+## [附魔ID](Enchantment.md) [装备ID](outfit.md)
 
 ## 1. RNG 钓鱼：
 **（由于在 1.20 版本开始无法再利用 RNG 操作战利品表，在 1.20 之后的版本 cfish 命令已被删除）**
