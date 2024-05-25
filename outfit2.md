@@ -77,3 +77,4 @@
 |0.31~X.X.X|皮革外套|leather_chestplate
 |0.31~X.X.X|皮革裤子|leather_leggings
 |0.31~X.X.X|皮革靴子|leather_boots
+|0.31~X.X.X|书|book
