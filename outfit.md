@@ -82,9 +82,17 @@
 ### 靴子
 游戏版本|名字|ID|
 |:-|:-|:-|
+|0.31~X.X.X|皮革靴子|leather_boots
 |0.31~X.X.X|锁链靴子|leather_boots
-|0.31~X.X.X|锁链靴子|chainmail_boots
 |0.31~X.X.X|铁靴子|iron_boots
 |0.31~X.X.X|钻石靴子|diamond_boots
 |0.31~X.X.X|金靴子|golden_boots
 |1.16~X.X.X|下界合金靴子	|netherite_boots
+
+
+
+
+
+
+
+
